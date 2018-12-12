@@ -32,18 +32,23 @@ Developer @GA in NYC
 
 .alignright {
   float: right;
-  padding: 0 0 10px 10px; /* note the padding around a right floated image */
+  padding: 0 0 10px 300px; /* note the padding around a right floated image */
 }
 
 .alignleft {
   float: left;
   padding: 0 0px 0px 0; /* note the padding around a left floated image */
 }
+
 .alignleft-header {
   float: left;
   padding: 0 0 0px 0px; /* note the padding around a left floated image */
 }
 
+.alignleft-side {
+  float: left;
+  padding: 0 0px 0px 1000px; /* note the padding around a left floated image */
+}
 /******************************************
 /* BASE STYLES
 /*******************************************/
@@ -238,7 +243,7 @@ footer {
 .drkblu-bkg{
     background-color: #033048;
     width: auto;
-    height: 120px;   
+    height: 90px;   
     }
 
 
@@ -296,6 +301,8 @@ footer {
     padding: 20px 179px;
 
 }
+
+
 
 .gray-bkg{
     background-color: #121212;
