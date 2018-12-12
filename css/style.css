@@ -9,6 +9,9 @@ Developer @GA in NYC
 /* SETUP
 /*******************************************/
 
+
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:200,300,400,600,800');
+
 /* Box Model Hack */
 * {
   -moz-box-sizing: border-box; /* Firexfox */
