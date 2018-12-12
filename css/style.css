@@ -45,10 +45,6 @@ Developer @GA in NYC
   padding: 0 0 0px 0px; /* note the padding around a left floated image */
 }
 
-.alignleft-side {
-  float: left;
-  padding: 0 0px 0px 1000px; /* note the padding around a left floated image */
-}
 /******************************************
 /* BASE STYLES
 /*******************************************/
