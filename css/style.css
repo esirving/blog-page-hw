@@ -58,12 +58,13 @@ body {
 
 
 .nav{
-    font-size: 18px;
+    font-size: 24px;
+    font-weight: 600;
     color: #fff;
     display: inline-block;
     padding-right: 10px;
     padding-left: 10px;
-    padding-top: 30px;
+    padding-top: 20px;
     color: #f9e42e;
 
 }
@@ -94,7 +95,7 @@ h2 {
 h3 {
   font-family: 'Open Sans', sans-serif;
   font-weight: 600;
-  font-size: 32px;
+  font-size: 24px;
   color: #033048;
   text-align: right;
   margin-left: 0px;
@@ -138,8 +139,8 @@ h6 {
 .category {
   font-family: 'Open Sans', sans-serif;
   font-weight: 300;
-  font-size: 22px;
-  line-height: 1.1;
+  font-size: 24px;
+  line-height: 1.2;
   color: #033048;
   text-align: left;
   margin-left: 0px;
@@ -191,7 +192,7 @@ footer {
 
 .col-footer {
   width: 100%;
-  padding: 0px 440px;
+  padding: 0px 520px;
 
 }
 
