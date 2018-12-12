@@ -81,18 +81,19 @@ h1 {
 }
 h2 {
   font-family: 'Open Sans', sans-serif;
-  font-weight: 800;
-  font-size: 24px;
+  font-weight: 600;
+  font-size: 40px;
   color: #033048;
   text-align: left;
   margin-left: 0px;
   margin-top: 0px;
   padding-top: 20px;
+  padding-bottom: 20px;
 }
 
 h3 {
   font-family: 'Open Sans', sans-serif;
-  font-weight: 800;
+  font-weight: 600;
   font-size: 24px;
   color: #033048;
   text-align: right;
@@ -252,7 +253,17 @@ footer {
   padding-top: 20px;
 }
 
-.blog-copy{}
+.blog-copy{
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 200;
+  font-size: 24px;
+  color: #121212;
+  text-align: left;
+  margin-left: 0px;
+  margin-top: 0px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
 
 .read-more{
   font-family: 'Open Sans', sans-serif;
