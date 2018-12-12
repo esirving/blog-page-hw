@@ -159,6 +159,29 @@ h6 {
   margin-top: 0px;
   padding-top: 10px;
 }
+
+a:link {
+  color: #fff;
+  text-decoration: none;
+}
+
+/* visited link */
+a:visited {
+  color: #fff;
+  text-decoration: none;
+}
+
+/* mouse over link */
+a:hover {
+  color: #f9e42e;
+  text-decoration: none;
+}
+
+/* selected link */
+a:active {
+  color: #fff;
+  text-decoration: none;
+}
 /******************************************
 /* LAYOUT
 /*******************************************/
