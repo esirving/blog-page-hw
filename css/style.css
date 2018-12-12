@@ -129,7 +129,7 @@ h5 {
 
 /* Center the container */
 #container {
-  width: 960px;
+  width: 1200px;
   margin: auto;
   background-color: #f0efef;
 }
@@ -169,6 +169,7 @@ footer {
 .col-side{
   width: 240px;
   margin-left: 20px;
+  padding-left: 40px
 }
 
 .col-1 {
