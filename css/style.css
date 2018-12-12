@@ -319,8 +319,9 @@ footer {
 /*FOOTER START*/
 .yllw-bkg{
     background-color: #f9e42e;
-    width: auto;
-    height: 70px;   
+    width: 1120px;
+    height: 70px; 
+    margin: auto;  
     }
 
     .blue{
@@ -348,13 +349,15 @@ footer {
 
 .gray-bkg{
     background-color: #121212;
-    width: auto;
-    height: 250px;  
+    width: 1120px;
+    height: 250px;
+    margin: auto;  
 }
 .lghtgry-bkg{
     background-color: #f0efef;
-    width: auto;
-    height: 70px;  
+    width: 1120px;
+    height: 70px; 
+    margin: auto; 
 }
 
 .copyright{
